@@ -7,7 +7,7 @@
 🔐 Passionate about **Cybersecurity, Network Security and Cryptography**  
 💻 Hands-on experience with **Python, C++, MySQL, and Cisco Packet Tracer**  
 📧 Reach me at: **amailashahid@gmail.com**  
-📑 [Check my Resume]([https://drive.google.com/](https://drive.google.com/file/d/1tgWEgexIK7bKl2lw7ArYx7SkrhOfZK_T/view?usp=sharing)) 
+📑 Check my [Resume](https://drive.google.com/file/d/1tgWEgexIK7bKl2lw7ArYx7SkrhOfZK_T/view?usp=sharing)
 
 ✨ Fun fact: **I love solving real-world tech problems and exploring ethical hacking!** 🛡️
 
