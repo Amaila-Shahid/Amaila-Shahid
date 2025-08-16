@@ -1,6 +1,5 @@
 <h1 align="center">Hey, It's Me Amaila Shahid <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">Cybersecurity Enthusiast | Computer Systems Engineering Student | Network Security • Cryptography • Cloud Security | CompTIA Security+ Certified</h3>
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazd4MjhoNnc3cmlqcjkxODJmcHpyYmFlYzY2a3IxOWI3c2t6NThxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif">
+<h3 align="center">Cybersecurity Enthusiast | Computer Systems Engineer | Cryptography | CompTIA Security+ Certified</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amailashahid&label=Profile%20views&color=0e75b6&style=flat" alt="amailashahid"/> </p>
 
