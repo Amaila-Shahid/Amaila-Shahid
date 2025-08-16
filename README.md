@@ -27,9 +27,6 @@
   <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> </a>
    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/favicon.ico" alt="vscode" width="40" height="40"/> </a>
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Cisco_logo.svg" width="40" height="40"/>
-</a>
   <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/> </a>
 
 </p>
