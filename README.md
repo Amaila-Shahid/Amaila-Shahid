@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amailashahid&label=Profile%20views&color=0e75b6&style=flat" alt="amailashahid"/> </p>
 
 🎓 **BSc Computer Systems Engineering** student at *The Islamia University of Bahawalpur*  
-🔐 Passionate about **Cybersecurity, Network Security and Cryptography**  
+🔐 Passionate about **Cybersecurity, Threat Intelligence**  
 💻 Hands-on experience with **Python, C++, MySQL, and Cisco Packet Tracer**  
 📧 Reach me at: **amailashahid@gmail.com**  
 📑 Check my [Resume](https://drive.google.com/file/d/1ri0-ciEY0H1l2cJ8-n4IZenS1VRIOukY/view?usp=sharing))
